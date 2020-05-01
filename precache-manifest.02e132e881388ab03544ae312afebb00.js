@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "86e0fb55463e9ea72349b3d85468f149",
+    "revision": "8ca72c65a89b60a9fcb7aac5494de05f",
     "url": "/Busca-CEP/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Busca-CEP/static/css/2.69121389.chunk.css"
   },
   {
-    "revision": "350aa999e4decd68dd36",
+    "revision": "9f232f65a6a706135edb",
     "url": "/Busca-CEP/static/css/main.baa81595.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Busca-CEP/static/js/2.d7908ec5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "350aa999e4decd68dd36",
-    "url": "/Busca-CEP/static/js/main.06eeae21.chunk.js"
+    "revision": "9f232f65a6a706135edb",
+    "url": "/Busca-CEP/static/js/main.0d32cc96.chunk.js"
   },
   {
     "revision": "62aadbb1aa6b95b01133",

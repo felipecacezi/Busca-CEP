@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Busca-CEP/precache-manifest.406491f90c232bab48784cea1fd9b755.js"
+  "/Busca-CEP/precache-manifest.02e132e881388ab03544ae312afebb00.js"
 );
 
 self.addEventListener('message', (event) => {
