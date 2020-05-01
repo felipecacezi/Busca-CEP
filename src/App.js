@@ -37,7 +37,7 @@ function App() {
       break;
       case '1':
 
-        axios.get("http://viacep.com.br/ws/"+numero_cep+"/json/")
+        axios.get("https://viacep.com.br/ws/"+numero_cep+"/json/")
            .then(function (response) {
               list_table(response.data);
         })
@@ -45,7 +45,7 @@ function App() {
       break;
       case '2':
 
-        axios.get("http://viacep.com.br/ws/"+sigla_uf+"/"+nome_cidade+"/"+nome_rua+"/json/")
+        axios.get("https://viacep.com.br/ws/"+sigla_uf+"/"+nome_cidade+"/"+nome_rua+"/json/")
         .then(function (response) {          
           list_table(response.data);
         })
