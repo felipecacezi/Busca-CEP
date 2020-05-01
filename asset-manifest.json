@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/buscador-cep/static/css/main.baa81595.chunk.css",
-    "main.js": "/buscador-cep/static/js/main.9cf7e814.chunk.js",
-    "main.js.map": "/buscador-cep/static/js/main.9cf7e814.chunk.js.map",
-    "runtime-main.js": "/buscador-cep/static/js/runtime-main.1974b451.js",
-    "runtime-main.js.map": "/buscador-cep/static/js/runtime-main.1974b451.js.map",
-    "static/css/2.69121389.chunk.css": "/buscador-cep/static/css/2.69121389.chunk.css",
-    "static/js/2.d7908ec5.chunk.js": "/buscador-cep/static/js/2.d7908ec5.chunk.js",
-    "static/js/2.d7908ec5.chunk.js.map": "/buscador-cep/static/js/2.d7908ec5.chunk.js.map",
-    "index.html": "/buscador-cep/index.html",
-    "precache-manifest.f46021571c40b5c632ab9a9cb1c2ab87.js": "/buscador-cep/precache-manifest.f46021571c40b5c632ab9a9cb1c2ab87.js",
-    "service-worker.js": "/buscador-cep/service-worker.js",
-    "static/css/2.69121389.chunk.css.map": "/buscador-cep/static/css/2.69121389.chunk.css.map",
-    "static/css/main.baa81595.chunk.css.map": "/buscador-cep/static/css/main.baa81595.chunk.css.map",
-    "static/js/2.d7908ec5.chunk.js.LICENSE.txt": "/buscador-cep/static/js/2.d7908ec5.chunk.js.LICENSE.txt",
-    "static/media/logoTitle.png": "/buscador-cep/static/media/logoTitle.2841cba2.png"
+    "main.css": "/Busca-CEP/static/css/main.baa81595.chunk.css",
+    "main.js": "/Busca-CEP/static/js/main.06eeae21.chunk.js",
+    "main.js.map": "/Busca-CEP/static/js/main.06eeae21.chunk.js.map",
+    "runtime-main.js": "/Busca-CEP/static/js/runtime-main.7c8ccc86.js",
+    "runtime-main.js.map": "/Busca-CEP/static/js/runtime-main.7c8ccc86.js.map",
+    "static/css/2.69121389.chunk.css": "/Busca-CEP/static/css/2.69121389.chunk.css",
+    "static/js/2.d7908ec5.chunk.js": "/Busca-CEP/static/js/2.d7908ec5.chunk.js",
+    "static/js/2.d7908ec5.chunk.js.map": "/Busca-CEP/static/js/2.d7908ec5.chunk.js.map",
+    "index.html": "/Busca-CEP/index.html",
+    "precache-manifest.406491f90c232bab48784cea1fd9b755.js": "/Busca-CEP/precache-manifest.406491f90c232bab48784cea1fd9b755.js",
+    "service-worker.js": "/Busca-CEP/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/Busca-CEP/static/css/2.69121389.chunk.css.map",
+    "static/css/main.baa81595.chunk.css.map": "/Busca-CEP/static/css/main.baa81595.chunk.css.map",
+    "static/js/2.d7908ec5.chunk.js.LICENSE.txt": "/Busca-CEP/static/js/2.d7908ec5.chunk.js.LICENSE.txt",
+    "static/media/logoTitle.png": "/Busca-CEP/static/media/logoTitle.2841cba2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1974b451.js",
+    "static/js/runtime-main.7c8ccc86.js",
     "static/css/2.69121389.chunk.css",
     "static/js/2.d7908ec5.chunk.js",
     "static/css/main.baa81595.chunk.css",
-    "static/js/main.9cf7e814.chunk.js"
+    "static/js/main.06eeae21.chunk.js"
   ]
 }
